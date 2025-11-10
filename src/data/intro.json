@@ -1,8 +1,8 @@
 {
-  "name": "김민섭",
+  "name": "김미진",
   "title": "FRONTEND DEVELOPER",
   "greeting": "안녕하세요",
-  "message": "본질에 집중하는 프론트엔드 개발자 김민섭입니다",
+  "message": "본질에 집중하는 프론트엔드 개발자 김미진입니다",
   "moreButton": {
     "text": "더 알아보기 ↓",
     "targetSection": "about"

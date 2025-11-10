@@ -51,7 +51,7 @@ function About({ data }: AboutProps) {
   ];
 
   const handleGithubClick = () => {
-    window.open("https://github.com/mminseop", "_blank");
+    window.open("https://github.com/kim-mijin", "_blank");
   };
 
   return (
